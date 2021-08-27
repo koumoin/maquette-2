@@ -1,0 +1,44 @@
+.image{
+    height: 30px;
+    width: 25px;
+
+}
+img{
+    height: 510px;
+    width:1600px;
+    
+}
+.conteneur{
+    padding-left: 50px;
+}
+a{
+  
+margin-left: 150px;
+}
+.lien{
+
+    color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+h1{
+    color: darkslategrey;
+    padding-left: 450px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: darkslategrey;
+    padding-left: 550px; 
+     margin-bottom: 30px;   
+}
+.bouton{
+   color: darkslategrey;
+    padding-left: 680px; 
+    margin-bottom: 40px;
+  
+}
+.boite{
+    margin-left: 150px;  
+}
+
